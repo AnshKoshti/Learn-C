@@ -9,3 +9,6 @@
 
 # Do not ignore any .c files (in the root or subdirectories)
 !**/*.c
+
+# Do not ignore .md file.
+!*.md
